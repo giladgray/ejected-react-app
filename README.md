@@ -1,3 +1,9 @@
+### 👋 This repo was created for a Lightning ⚡️ Talk at [CascadiaJS 2019](https://2019.cascadiajs.com/speakers/gilad-gray)
+
+The slides can be found as a PDF in this repo.
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
